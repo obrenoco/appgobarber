@@ -8,6 +8,7 @@ export const Container = styled.View`
   justify-content: center;
   padding: 0 30px ${Platform.OS === 'android' ? 150 : 40}px;
 `;
+
 export const Title = styled.Text`
   font-size: 24px;
   color: #f4ede8;
@@ -29,6 +30,7 @@ export const BackToSignIn = styled.TouchableOpacity`
   justify-content: center;
   align-items: center;
 `;
+
 export const BackToSignInText = styled.Text`
   color: #fff;
   font-size: 18px;

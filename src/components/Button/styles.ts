@@ -10,6 +10,7 @@ export const Container = styled(RectButton)`
   align-items: center;
   margin-top: 8px;
 `;
+
 export const ButtonText = styled.Text`
   font-family: 'RobotoSlab-Medium';
   color: #312e38;
