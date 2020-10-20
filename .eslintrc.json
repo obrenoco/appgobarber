@@ -39,7 +39,9 @@
       "no-use-before-define": "off",
       "object-curly-newline": "off",
       "@typescript-eslint/ban-types": "off",
+      "implicit-arrow-linebreak":"off",
       "no-unused-expressions": "off",
+      "operator-linebreak":"off",
       "no-shadow":"off",
       "arrow-parens":"off",
       "import/extensions": [
